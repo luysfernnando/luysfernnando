@@ -4,7 +4,7 @@
 
 ### Oi, Meu nome é Luys Fernnando. Seja bem vindo (a)!👋
 
-- 👨🏻‍💻 Aqui no meu GitHub você poderá conferir alguns dos projetos que desenvolvi, caso queira mais informações sobre mim, por favor acessar meu <a href="https://luysfernnando.com/" target="_blank">website</a>.
+- 👨🏻‍💻 Aqui no meu GitHub você poderá conferir alguns dos projetos que desenvolvi, caso queira mais informações sobre mim, por favor acessar meu <a href="https://luysfernnando.netlify.app" target="_blank">website</a>.
   
 <!--
 ## Sou desenvolvedor Full-Stack e Freelancer.

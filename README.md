@@ -69,6 +69,7 @@
  -->
 </div>
 
+<!--
 ---
 
 ### 🏆 Estatísticas do Github
@@ -78,8 +79,10 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luysfernnando&show_icons=true&locale=pt-br&theme=tokyonight&custom_title=Minhas%20Estatísticas%20do%20Github%20"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luysfernnando&layout=compact&locale=pt-br&theme=tokyonight"/>
 </div>
+-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=luysfernnando&locale=pt_BR" alt="luysfernnando" height="170em" /></p>-->
+
 
 <!--
 ### 📺 Latest YouTube Videos
